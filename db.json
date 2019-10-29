@@ -84,28 +84,40 @@
     "Ticket": [
         {
             "id": "1",
+            "idProveedor": "1",
             "fecha": "20 de septiembre del 2019",
             "cantidad": "$2000"
         },
         {
             "id": "2",
+            "idProveedor": "1",
             "fecha": "10 de octubre del 2018",
             "cantidad": "$1500"
         },
         {
             "id": "3",
+            "idProveedor": "2",
             "fecha": "10 de octubre del 2018",
             "cantidad": "$1500"
         },
         {
             "id": "4",
+            "idProveedor": "3",
             "fecha": "10 de octubre del 2018",
             "cantidad": "$1500"
         },
         {
             "id": "5",
+            "idProveedor": "4",
             "fecha": "10 de octubre del 2018",
             "cantidad": "$1500"
-        }
+        },
+        {
+            "id": "6",
+            "idProveedor": "5",
+            "fecha": "10 de octubre del 2018",
+            "cantidad": "$1500"
+        },
+        
     ]
 }
