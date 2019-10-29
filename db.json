@@ -13,7 +13,7 @@
             "situacionEconomica": "México",
             "facilidadPago": "México",
             "cantidadMinimaFabricacion": "10",
-            "status": "Activo",
+            "status": "Baja",
             "foto": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Microsoft-Logo-2012.jpg"
         },
         {
@@ -29,7 +29,7 @@
             "situacionEconomica": "$10,000",
             "facilidadPago": "Contado",
             "cantidadMinimaFabricacion": "10",
-            "status": "Activo",
+            "status": "Regular",
             "foto": "https://i1.wp.com/www.america-retail.com/static//2019/08/amazon-625x352.jpg?resize=625%2C352&ssl=1"
         },
         {
@@ -45,7 +45,7 @@
             "situacionEconomica": "$15,000",
             "facilidadPago": "Contado",
             "cantidadMinimaFabricacion": "10",
-            "status": "Activo",
+            "status": "Inactivo",
             "foto": "https://www.sony.com/image/sonyview1?fmt=png&wid=1200"
         },
         {
